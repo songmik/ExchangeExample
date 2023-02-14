@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExchangeEx</string>
+    <string name="bank_open_api_key"></string>
+</resources>
